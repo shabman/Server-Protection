@@ -7,8 +7,8 @@
 - Auto modules
 - Utility
 - Resetting the bot
-- Moderation usage
-- About
+
+
 
 -------------------------------------
 
@@ -69,8 +69,8 @@
 
 # Deleting/Resetting modules/Roles
 
-- !!delmute
-- !!delete
-- !!deletewelcome
-- !!deletemod
-- !!deletelog
+- !!delmute (deletes muted role)
+- !!delete (deletes member and admin roles)
+- !!deletewelcome (deletes welcome channel)
+- !!deletemod (deletes auto mod)
+- !!deletelog (deletes logger)
