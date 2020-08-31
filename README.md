@@ -12,4 +12,6 @@
 
 # Setting the member role
 
-- 
+- !!setrole @role (must be a role mention)
+
+## This sets the member role which will be useful for later purposes (will explain later on)
