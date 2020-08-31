@@ -7,3 +7,9 @@
 - Auto modules
 - Moderation usage
 - About
+
+-------------------------------------
+
+# Setting the member role
+
+- 
