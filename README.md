@@ -7,7 +7,7 @@
 - Auto modules
 - Utility
 - Resetting the bot
-
+- Verification system
 
 
 -------------------------------------
