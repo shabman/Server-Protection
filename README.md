@@ -74,3 +74,10 @@
 - !!deletewelcome (deletes welcome channel)
 - !!deletemod (deletes auto mod)
 - !!deletelog (deletes logger)
+
+-------------------------------------
+
+# Verification System
+
+- !!setverify #channel (sets the verification log channel)
+- !!delverify (deletes the verification system)
